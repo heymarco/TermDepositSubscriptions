@@ -11,11 +11,11 @@ The main notebook for data preprocessing and model training can be found under [
 - `utils` contains the definitions and groupings of the [column names](utils/column_names.py)
 
 ### Setup & Dependencies
-- Dependencies are managed via [pipenv](https://pipenv.pypa.io/en/latest/). Before setting up the virtual environment, [install pipenv](https://pipenv.pypa.io/en/latest/installation.html).
+- Dependencies are managed via [pipenv](https://pipenv.pypa.io/en/latest/). Before setting up the virtual environment, please [install pipenv](https://pipenv.pypa.io/en/latest/installation.html).
 - To set up the virtual environment, run `pipenv install -e .`
-  - if you encounter problems, try deleting the `Pipfile.lock` file
+  - if you encounter problems, try deleting the `Pipfile.lock`
 - To enter the virtual environment, run `pipenv shell` 
-- run `jupyter notebook` and follow the link displayed in your terminal
+- Run `jupyter notebook` and follow the link displayed in your terminal
 
 ### Data
-- the jupyter notebook will automatically download the data from UCI and store it under the path specified in [config/paths.py](config/paths.py).
+- The jupyter notebook will automatically download the data from UCI and store it under the path specified in [config/paths.py](config/paths.py).
