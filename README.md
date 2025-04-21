@@ -1,7 +1,5 @@
 # Readme
 
----
-
 The goal is to predict whether a client will subscribe to a fixed-term deposit (`y`) based on the Bank Marketing dataset on UCI.
 
 ### Notebook
