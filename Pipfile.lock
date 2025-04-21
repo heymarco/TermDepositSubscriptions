@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "4d3b0424dd23516109d0de30069878d1d23d956fe00529c4c866a25029dc564a"
+            "sha256": "c8c3a24bd3fdfa8fc17bc130ed575f49ad3e71aeb87be3312acd42a7c6c94689"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -2191,6 +2191,10 @@
             "index": "pypi",
             "markers": "python_version >= '3.9'",
             "version": "==0.14.4"
+        },
+        "termdepositsubscription": {
+            "editable": true,
+            "file": "."
         },
         "terminado": {
             "hashes": [

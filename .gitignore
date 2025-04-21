@@ -7,3 +7,5 @@ C/
 *__pycache__/
 *.pkl
 *.parquet
+*.egg-info/
+*.ipynb_checkpoints/

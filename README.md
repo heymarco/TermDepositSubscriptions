@@ -14,7 +14,7 @@ The main notebook for data preprocessing and model training can be found under [
 
 ### Setup & Dependencies
 - Dependencies are managed via [pipenv](https://pipenv.pypa.io/en/latest/). Before setting up the virtual environment, [install pipenv](https://pipenv.pypa.io/en/latest/installation.html).
-- To setup the virtual environment, run `pipenv install`
+- To set up the virtual environment, run `pipenv install -e .`
   - if you encounter problems, try deleting the `Pipfile.lock` file
 - To enter the virtual environment, run `pipenv shell` 
 - run `jupyter notebook` and follow the link displayed in your terminal
