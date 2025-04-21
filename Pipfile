@@ -18,6 +18,8 @@ statsmodels = "*"
 tqdm = "*"
 imbalanced-learn = "*"
 catboost = "*"
+jupyter = "*"
+notebook = "*"
 
 [dev-packages]
 
