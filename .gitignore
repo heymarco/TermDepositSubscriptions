@@ -1,0 +1,9 @@
+.env
+exportToHTML
+*.csv
+.idea/
+catboost_info/
+C/
+*__pycache__/
+*.pkl
+*.parquet

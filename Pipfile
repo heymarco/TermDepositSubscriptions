@@ -1,0 +1,26 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+pandas = "*"
+numpy = "*"
+seaborn = "*"
+matplotlib = "*"
+scikit-learn = "*"
+xgboost = "*"
+lightgbm = "*"
+ucimlrepo = "*"
+parquet = "*"
+fastparquet = "*"
+statsmodels = "*"
+tqdm = "*"
+imbalanced-learn = "*"
+catboost = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.12"
+python_full_version = "3.12.9"
