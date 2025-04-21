@@ -16,3 +16,6 @@ The main notebook for data preprocessing and model training can be found under [
   - if you encounter problems, try deleting the `Pipfile.lock` file
 - To enter the virtual environment, run `pipenv shell` 
 - run `jupyter notebook` and follow the link displayed in your terminal
+
+### Data
+- the jupyter notebook will automatically download the data from UCI and store it under the path specified in [config/paths.py](config/paths.py).
